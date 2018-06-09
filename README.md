@@ -5,8 +5,11 @@ CS248Project
 #Ipython notebook is located in CNN-renderer
 
 #Setup 
+
 1.Install requirements.txt using preferred package manager 
+
 or 
+
 2. Install Conda and use attached conda enviornment: cs248.yml
     -conda env create -f cs248.yml
 
