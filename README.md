@@ -6,7 +6,7 @@ CS248Project
 
 #Setup 
 
-1.Install requirements.txt using preferred package manager 
+1. Install requirements.txt using preferred package manager 
 
 or 
 
