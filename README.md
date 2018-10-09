@@ -6,11 +6,7 @@ Ipython notebook is located in CS248Project/CNN-renderer
 
 #Setup 
 
-1a. Install requirements.txt using preferred package manager 
-
-  or 
-
-1b. Install Conda and use attached conda enviornment: cs248.yml
+1. Install Conda and use attached conda enviornment: cs248.yml
     -conda env create -f cs248.yml
 
 2. To run pretrained models go to CNN-renderer/CNN-Renderer.ipynb and run all cells from Setup to Train-CNN
