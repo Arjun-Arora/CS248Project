@@ -1,6 +1,6 @@
 CS248Project
 
-#This is the repo for Arjun Arora's CS248 NN-renderer project. This is based of the Gaussian Materials Synthesis paper's Neural renderer: https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/
+#This is the repo for Arjun Arora's CS248 NN-renderer project. This is an implementation of and my improvement on the Gaussian Materials Synthesis paper's Neural renderer: https://users.cg.tuwien.ac.at/zsolnai/gfx/gaussian-material-synthesis/
 
 Ipython notebook is located in CS248Project/CNN-renderer
 
